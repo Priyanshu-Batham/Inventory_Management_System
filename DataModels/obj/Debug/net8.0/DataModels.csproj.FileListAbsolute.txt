@@ -11,3 +11,16 @@ E:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\refint\DataMo
 E:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.pdb
 E:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\ref\DataModels.dll
 E:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.sourcelink.json
+D:\1GITHUB\Inventory_Management_System\DataModels\bin\Debug\net8.0\DataModels.deps.json
+D:\1GITHUB\Inventory_Management_System\DataModels\bin\Debug\net8.0\DataModels.dll
+D:\1GITHUB\Inventory_Management_System\DataModels\bin\Debug\net8.0\DataModels.pdb
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.csproj.AssemblyReference.cache
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.sourcelink.json
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.dll
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\refint\DataModels.dll
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\DataModels.pdb
+D:\1GITHUB\Inventory_Management_System\DataModels\obj\Debug\net8.0\ref\DataModels.dll

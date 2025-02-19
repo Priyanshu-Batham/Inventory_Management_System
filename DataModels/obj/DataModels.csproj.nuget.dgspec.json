@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj": {}
+    "D:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj": {}
   },
   "projects": {
-    "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj": {
+    "D:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj",
+        "projectUniqueName": "D:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj",
         "projectName": "DataModels",
-        "projectPath": "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj",
+        "projectPath": "D:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj",
         "packagesPath": "C:\\Users\\Priyanshu\\.nuget\\packages\\",
-        "outputPath": "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\obj\\",
+        "outputPath": "D:\\1GITHUB\\Inventory_Management_System\\DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

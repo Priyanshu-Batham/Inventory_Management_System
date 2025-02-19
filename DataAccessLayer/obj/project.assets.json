@@ -1712,11 +1712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "E:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Priyanshu\\.nuget\\packages\\",
-      "outputPath": "E:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1737,8 +1737,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj": {
-              "projectPath": "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj"
+            "D:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj": {
+              "projectPath": "D:\\1GITHUB\\Inventory_Management_System\\DataModels\\DataModels.csproj"
             }
           }
         }
@@ -1779,7 +1779,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

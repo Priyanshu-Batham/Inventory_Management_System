@@ -1,40 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\",
+  "WorkspaceRootPath": "D:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|e:\\1github\\inventory_management_system\\ims_main\\controltransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|solutionrelative:controltransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|e:\\1github\\inventory_management_system\\ims_main\\controltransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|solutionrelative:controltransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|e:\\1github\\inventory_management_system\\ims_main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|d:\\1github\\inventory_management_system\\ims_main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|e:\\1github\\inventory_management_system\\ims_main\\controlusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|solutionrelative:controlusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|e:\\1github\\inventory_management_system\\ims_main\\controlusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|solutionrelative:controlusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|e:\\1github\\inventory_management_system\\ims_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CE6AC5-814B-4807-922D-D86460E423A3}|IMS_Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DF3E5B-1379-4D84-9827-052D701E25A1}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\1github\\inventory_management_system\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D23744AF-6E4E-4CBE-B6F8-DF496BF9796E}|..\\DataModels\\DataModels.csproj|e:\\1github\\inventory_management_system\\datamodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 376,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,111 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ControlTransactions.cs [Design]",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlTransactions.cs",
-              "RelativeDocumentMoniker": "ControlTransactions.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlTransactions.cs [Design]",
-              "RelativeToolTip": "ControlTransactions.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:44:03.797Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ControlTransactions.cs",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlTransactions.cs",
-              "RelativeDocumentMoniker": "ControlTransactions.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlTransactions.cs",
-              "RelativeToolTip": "ControlTransactions.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAnwM0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:44:01.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ControlUsers.cs",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlUsers.cs",
-              "RelativeDocumentMoniker": "ControlUsers.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlUsers.cs",
-              "RelativeToolTip": "ControlUsers.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:07:20.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ControlUsers.cs [Design]",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlUsers.cs",
-              "RelativeDocumentMoniker": "ControlUsers.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\ControlUsers.cs [Design]",
-              "RelativeToolTip": "ControlUsers.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:07:30.302Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T11:36:37.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DataModels\\Class1.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\DataModels\\Class1.cs",
-              "RelativeToolTip": "..\\DataModels\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T17:40:31.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Class1.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\DataAccessLayer\\Class1.cs",
-              "RelativeToolTip": "..\\DataAccessLayer\\Class1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwBoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:37:53.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T17:01:58.703Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Form1.cs",
+              "DocumentMoniker": "D:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Form1.cs",
+              "ToolTip": "D:\\1GITHUB\\Inventory_Management_System\\IMS_Main\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAIA4wD8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwD0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T18:03:55.972Z",
               "EditorCaption": ""
